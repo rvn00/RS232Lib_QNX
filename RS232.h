@@ -26,9 +26,9 @@ public:
 	int setRTS(bool on_off);
 	int setDCD(bool on_off);
 	int setDTR(bool on_off);
+	
 	int getBTW();
 	int getBTR();
-
 	int getDTR();
 	int getRTS();
 	int getCTS();
