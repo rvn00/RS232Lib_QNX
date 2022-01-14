@@ -12,8 +12,6 @@
 #include <sys/time.h>
 #include <iostream>
 
-//#include "wsyslog.h"
-
 using namespace std;
 
 class RS232 {
